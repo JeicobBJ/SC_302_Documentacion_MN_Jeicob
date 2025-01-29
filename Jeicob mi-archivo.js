@@ -1,2 +1,2 @@
 alert("hola mundo"); 
-Commit changes 
+git commit -m "Agregando el primer archivo JavaScript"
